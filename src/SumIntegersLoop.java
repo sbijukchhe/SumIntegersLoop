@@ -33,7 +33,7 @@ public class SumIntegersLoop {
 
         System.out.println("Please enter 10 numbers to find sum...");
 
-        for(int i=0; i<=10; i++){
+        for(int i=1; i<=10; i++){
 
             num = input.nextInt();
             total += num;
